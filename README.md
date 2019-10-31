@@ -1,4 +1,9 @@
 # JackInSights-2019
+
 Static Website for Statistics
 
-Inspired by Daniel Hritzkiv Annual Report series, JackInSights - 2019 is an excercise in personal data collection and reflection. I had previously mapped out this data using Microsoft Excel spreadsheets but with the advent of tracking applicaitons this is significantly easier. This website will be static but I hope as I learn to code I will be able to make it more interactable.
+Inspired by Daniel Hritzkiv Annual Report series, JackInSights - 2019 an attempt to beter understand HTML and CSS. 
+
+As I learn more of JavaScript I will use live data from API calls. I had previously mapped out this data using Microsoft Excel spreadsheets but with the advent of tracking applicaitons this is significantly easier. 
+
+This is 2019 - Version 1
