@@ -2,7 +2,6 @@
 
 Static Website for Statistics
 
-<<<<<<< HEAD
 Inspired by Daniel Hritzkiv Annual Report series, JackInSights - 2019 an attempt to beter understand HTML and CSS. 
 
 As I learn more of JavaScript I will use live data from API calls. I had previously mapped out this data using Microsoft Excel spreadsheets but with the advent of tracking applicaitons this is significantly easier. 
@@ -27,4 +26,3 @@ Tracking via Excel Sheet which is taking in data from the following sources:
 - AudioBooks (Blinkist) - Manually Tracked
 
 Next year I need to figure out either to API call the data I need or from CSV files exported from these services. 
->>>>>>> 4f5b2f3291023072e8e371d9dd5ca69dc8bf2b27
